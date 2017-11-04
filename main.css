@@ -1,9 +1,10 @@
 
-p {
+h1 {
 font-family: 'Roboto', sans-serif;
 font-size: 4em;
 color: #fff;
 padding: 1em;
+background: #d5d5d5;
 
 }
 
@@ -14,10 +15,6 @@ jerry {
 	padding: 5em;
 }
 
-#seinfeld {
-	background: #d5d5d5;
-	
-}
 
 button {
 	background: yellow;
@@ -27,4 +24,12 @@ button {
 	margin: 2em;
 	font-family: 'Roboto', sans-serif;
 	color: blue;
+}
+
+.change {
+	color: #000;
+}
+
+div {
+	text-align: center;
 }
